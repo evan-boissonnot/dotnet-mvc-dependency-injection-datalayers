@@ -188,7 +188,7 @@
     <Content Include="Scripts\jquery-3.3.1.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\.git\LesDataLayers\LesDataLayers.csproj">
+    <ProjectReference Include="..\LesDataLayers\LesDataLayers.csproj">
       <Project>{63b94591-0996-46ee-b646-83af0d250339}</Project>
       <Name>LesDataLayers</Name>
     </ProjectReference>

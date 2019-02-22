@@ -67,8 +67,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\.git\LesDataLayers\LesDataLayers.csproj">
-      <Project>{63B94591-0996-46EE-B646-83AF0D250339}</Project>
+    <ProjectReference Include="..\LesDataLayers\LesDataLayers.csproj">
+      <Project>{63b94591-0996-46ee-b646-83af0d250339}</Project>
       <Name>LesDataLayers</Name>
     </ProjectReference>
     <ProjectReference Include="..\LesInterfaces\LesInterfaces.csproj">
